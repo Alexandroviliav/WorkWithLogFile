@@ -1,0 +1,45 @@
+2019-04-26 14:55:07.050 DBG default: START PROGRAMM
+2019-04-26 14:55:37.235 DBG default: START PROGRAMM
+2019-04-26 14:55:38.188 DBG default: MainWindow::LEVEL1::startRadiography
+2019-04-26 15:03:21.711 DBG default: START PROGRAMM
+2019-04-26 15:03:23.239 DBG default: MainWindow::LEVEL1::startRadiography
+2019-04-26 15:03:56.221 DBG default: START PROGRAMM
+2019-04-26 15:03:57.575 DBG default: MainWindow::LEVEL1::startRadiography
+2019-02-26 15:02:26.949 DBG default: START PROGRAMM
+2019-04-26 15:04:28.320 DBG default: MainWindow::LEVEL1::startRadiography
+2019-04-26 15:13:15.633 DBG default: START PROGRAMM
+2019-04-26 15:13:16.746 DBG default: MainWindow::LEVEL1::startRadiography
+2019-04-26 15:14:10.147 DBG default: START PROGRAMM
+2019-04-26 15:14:11.206 DBG default: MainWindow::LEVEL1::startRadiography
+2019-04-26 15:15:05.248 DBG default: START PROGRAMM
+2019-04-26 15:15:06.334 DBG default: MainWindow::LEVEL1::startRadiography
+2019-04-26 16:05:43.093 DBG default: START PROGRAMM
+2019-04-26 16:05:44.422 DBG default: MainWindow::LEVEL1::startRadiography
+2019-04-26 16:06:15.511 DBG default: START PROGRAMM
+2019-04-26 16:06:16.563 DBG default: MainWindow::LEVEL1::startRadiography
+2019-02-26 16:06:32.923 DBG default: START PROGRAMM
+2019-04-26 16:06:33.979 DBG default: MainWindow::LEVEL1::startRadiography
+2019-04-26 16:08:27.143 DBG default: START PROGRAMM
+2019-04-26 16:08:28.208 DBG default: MainWindow::LEVEL1::startRadiography
+2019-04-26 16:08:38.939 DBG default: START PROGRAMM
+2019-04-26 16:08:39.852 DBG default: MainWindow::LEVEL1::startRadiography
+2019-04-26 16:09:00.991 DBG default: START PROGRAMM
+2019-04-26 16:09:02.056 DBG default: MainWindow::LEVEL1::startRadiography
+2019-04-26 16:09:14.452 DBG default: START PROGRAMM
+2019-04-26 16:09:15.362 DBG default: MainWindow::LEVEL1::startRadiography
+2019-04-26 16:09:34.764 DBG default: START PROGRAMM
+2019-04-26 16:09:36.063 DBG default: MainWindow::LEVEL1::startRadiography
+2019-04-26 16:35:35.692 DBG default: START PROGRAMM
+2019-04-26 16:35:36.707 DBG default: MainWindow::LEVEL1::startRadiography
+2019-04-26 16:48:19.612 DBG default: START PROGRAMM
+2019-04-26 16:48:20.656 DBG default: MainWindow::LEVEL1::startRadiography
+2019-04-26 16:49:13.608 DBG default: START PROGRAMM
+2019-04-26 16:49:14.710 DBG default: MainWindow::LEVEL1::startRadiography
+2019-04-26 16:49:54.686 DBG default: START PROGRAMM
+2019-04-26 16:49:55.741 DBG default: MainWindow::LEVEL1::startRadiography
+2019-04-26 16:50:59.719 DBG default: START PROGRAMM
+2019-04-26 16:51:00.682 DBG default: MainWindow::LEVEL1::startRadiography
+2019-04-26 16:51:35.257 DBG default: START PROGRAMM
+2019-04-26 16:51:36.315 DBG default: MainWindow::LEVEL1::startRadiography
+2019-04-29 09:40:35.059 DBG default: START PROGRAMM
+2019-04-29 09:40:36.604 DBG default: MainWindow::LEVEL1::startRadiography
